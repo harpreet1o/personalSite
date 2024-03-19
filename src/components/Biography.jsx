@@ -22,7 +22,7 @@ function Biography() {
                   Node.js, Express.js
                 </li>
                 <span className="text-blue">Database: </span>
-                <li> MongoDB, Firebase, MySQL, MSSQL Server</li>
+                MongoDB, Firebase, MySQL, MSSQL Server
                 <li>
                   <span className="text-blue">Other Learning: </span>
                   Object-Oriented Programming (OOP), Java, JavaFX, Python, Git,
