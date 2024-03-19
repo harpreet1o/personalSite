@@ -25,7 +25,8 @@ function Biography() {
                 <li> MongoDB, Firebase, MySQL, MSSQL Server</li>
                 <li>
                   <span className="text-blue">Other Learning: </span>
-                  Object-Oriented Programming (OOP), Java, JavaFX, Python
+                  Object-Oriented Programming (OOP), Java, JavaFX, Python, Git,
+                  GitHub
                 </li>
               </ul>
             </div>
