@@ -31,7 +31,7 @@ function Footer() {
           </div>
           <div className="flex gap-4 items-center mb-4 cursor-pointer">
             <a
-              href="www.linkedin.com/in/harpreet-singh-31a912258"
+              href="https://www.linkedin.com/in/harpreet-singh1o"
               target="_blank"
               rel="noopener noreferrer"
               className="flex gap-1 items-center"
