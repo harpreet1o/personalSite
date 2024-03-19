@@ -29,10 +29,15 @@ function Projects() {
             artists, albums, and songs. The app utilizes the audioplayer5
             library for playing songs.
           </p>
-          <div className="text-lg cursor-pointer justify-between flex items-center text-white font-semibold py-2 px-4 rounded-full bg-black transition duration-300 ease-in-out hover:bg-blue max-w-40">
+          <a
+            href="https://github.com/harpreet1o/AudioPlayer"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-lg cursor-pointer justify-between flex items-center text-white font-semibold py-2 px-4 rounded-full bg-black transition duration-300 ease-in-out hover:bg-blue max-w-40"
+          >
             <span>Code</span>
             <FaGithub className="inline" />
-          </div>
+          </a>
         </div>
 
         <div className="px-12">
@@ -46,10 +51,15 @@ function Projects() {
             and vice versa. The admin page allows for item addition and
             deletion.
           </p>
-          <div className="text-lg flex items-center justify-between cursor-pointer text-white font-semibold py-2 px-4 rounded-full bg-black transition duration-300 ease-in-out hover:bg-blue max-w-40">
+          <a
+            href="https://github.com/harpreet1o/ecommerceStore"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-lg cursor-pointer justify-between flex items-center text-white font-semibold py-2 px-4 rounded-full bg-black transition duration-300 ease-in-out hover:bg-blue max-w-40"
+          >
             <span>Code</span>
             <FaGithub className="inline" />
-          </div>
+          </a>
         </div>
         <div className="relative">
           <div
